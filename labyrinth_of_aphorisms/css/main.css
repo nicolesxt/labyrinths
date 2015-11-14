@@ -1,0 +1,33 @@
+html body{margin: 0px; padding: 0px;}
+
+.style{
+	margin: 250px auto;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Droid Serif', serif;
+	text-decoration: none;
+}
+
+.imgstyle{
+	margin: 150px auto;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Droid Serif', serif;
+	text-decoration: none;
+}
+
+.choice{
+	margin-top: 20px;
+}
+
+.answer{
+	font-size: 80px;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: #FF4180;
+}
